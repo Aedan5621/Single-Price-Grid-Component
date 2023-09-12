@@ -101,7 +101,7 @@ li {
   color: #e3ebf3;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 600px) {
 body {
     overflow: scroll;
 }
